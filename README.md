@@ -2,4 +2,4 @@
 
 java spring mini project
 
-![image](./이경덕1.
+![image](./이경덕1.png)
